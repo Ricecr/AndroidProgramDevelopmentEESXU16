@@ -2,7 +2,7 @@
 
 这门选修课开设于2019年上半年，电子信息工程的第六学期，学分2分。
 
-![](.\安卓课件\IDE.png)
+![image](https://github.com/Ricecr/AndroidProgramDevelopmentEESXU16/blob/master/%E5%AE%89%E5%8D%93%E8%AF%BE%E4%BB%B6/IDE.png)
 
 课程推荐开发环境如下
 
