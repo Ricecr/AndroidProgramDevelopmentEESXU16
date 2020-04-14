@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="married" value="false" />
+<int name="age" value="18" />
+<string name="name">Tom</string>
+</map>
